@@ -1,0 +1,56 @@
+,0,1
+0,合龈间隙的距离(occluso gingival space)_离散,-0.00014752866460976906
+1,近远中间隙的距离(mesio distal space distance)_离散,1.4294266962827216e-05
+2,近远中间隙的距离(mesio distal space distance)_连续,5.34233068570348e-06
+3,龈退缩(gingival recession)_离散,-0.0002995198863908457
+4,龈退缩(gingival recession)_连续,-0.00013350734403181033
+5,覆盖(上颌牙切缘到下牙唇面的水平距离不大于3mm覆盖正常.大于3mm为深覆盖(overjet))_离散,2.4972734026108204e-05
+6,牙体断面与牙龈相对位置(gingival position of fracture)_离散,-2.1267110344366275e-05
+7,牙体断面与牙龈相对位置(gingival position of fracture)_连续,0.00010717063401872347
+8,根分歧处透射影(furcation imaging)_离散,4.121762507534072e-05
+9,与合平面的关系(relationship with the occlusal plane)_离散,-5.157904971824639e-06
+10,缺失(is missing),0.004077148231387977
+11,牙体缺损(tooth defect),-0.00022075322582112975
+12,残冠(residual crown),-3.9322982819481486e-05
+13,残根(residual root),6.515946788016021e-05
+14,叩诊(percussion),3.6482562339121693e-05
+15,牙体断面位置(position of fracture),-2.6557951144121533e-05
+16,龋损(caries),-0.0007631020820435041
+17,充填体是否存在(filling existance),-4.723886872656712e-05
+18,充填体材料种类(filling material),-0.00010538323043900836
+19,修复体种类(restoration classification),-0.000859146669084781
+20,修复体材料(restoration material),-0.00015336496405962775
+21,松动度(mobility),0.00010972457093551188
+22,牙的位置(tooth position),-0.00010989982470026301
+23,牙相关影像-牙槽骨吸收情况(teeth related imaging),-0.00024423055234140575
+24,根尖周影像(apical root imaging),0.00011460349159999571
+25,根充影像(root canal filling imaging),-0.00011676251463256995
+26,修复体边缘(restoration margins),4.13156655419682e-06
+27,探诊(exploration probing),-4.519298106040074e-05
+28,楔状缺损(wedge shaped defect),-9.580080473169259e-05
+29,充填体边缘(filling margins),7.529777520005761e-05
+30,继发龋(secondary caries),2.237547019534059e-05
+31,悬突(overhang),-1.6693135099638624e-05
+32,崩瓷(porcelain fracture),6.889779697153261e-06
+33,牙龈红肿(gingival swollen),-0.00024231424907690793
+34,牙龈瘘管(gingival fistula),9.86685576060288e-06
+35,覆合(上牙切缘盖过下切牙切三分之一以内为正常.超过此范围为深覆合(overbite)),-6.95473465675953e-06
+36,反合(下牙位于上牙唇侧的为前牙反合(crossbite)),3.1465658126184786e-05
+37,对刃,-1.8481652812783578e-05
+38,咬合紧(tight bite),-3.1516434668913494e-05
+39,牙间隙(diastema),5.5135846975740465e-05
+40,近中根牙槽骨牙槽骨吸收(absorption near mesial root),-3.462841834311307e-05
+41,远中根牙槽骨牙槽骨吸收(absorption near distal root),-1.8129503918096194e-05
+42,桩核影像学(post imaging),3.940582162210568e-05
+43,根管影像(root canal imaging),-3.7185221787054526e-05
+44,根周膜影像(periodontal membrane imaging),-5.293272499766356e-05
+45,根长影像(length of root imaging),-5.8848905031261274e-05
+46,阻生齿(impaction),6.519408790852046e-05
+47,固位(retention of existed fixed restorations),-3.079663522942936e-06
+48,缺牙部位剩余牙槽嵴情况(residual ridge conditions),-0.0006351463791793067
+49,松软牙槽嵴(soft flabby ridges),-1.383568411777237e-05
+50,黏膜疼痛 增生 肿胀 溃疡(pain hyperemization swollen and ucler),3.1352376549912074e-05
+51,骨突 骨尖(torus),5.3575228622104115e-06
+52,旧义齿人工牙合面磨耗情况(artificial tooth wear),2.089336610713861e-05
+53,0,6.008349016130336e-05
+54,1,-4.530497177085274e-05
